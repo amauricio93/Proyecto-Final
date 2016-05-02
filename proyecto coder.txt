@@ -1,0 +1,15 @@
+Proyecto CoderHouse
+-Navegacion (2 pag)
+-Bootstrap (minimo Grid system + 1 componente javascrip)
+-Formularios
+Responsive (Mobile, Tablet, Desktop)
+-SEO + Accesibilidad
+-1+ Fuentes (Google Fonts)
+-Dominio + Hosting
+-Subir a Github (Proyecto Final)
+
+Suma Puntos
+-Sass
+-Comentarios
+-Semantica
+-Reutilizacion del CSS
